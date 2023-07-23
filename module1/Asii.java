@@ -26,7 +26,7 @@ public class Asii {
     
     
     static void PrintMain(){
-        System.out.println("%5s"," Hydroponic farming Management");
+        System.out.println(" Hydroponic farming Management");
         System.out.println("Main Menu");
         System.out.println("1.Add a batch");
         System.out.println("2.Show batch details");
